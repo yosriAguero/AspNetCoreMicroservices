@@ -12,3 +12,6 @@ db.Products.insertMany([{ 'Name':'Asus Laptop','Category':'Computers', 'Summary'
 
 Why use repository ?
 Abstraction between buisness layer and database context, mock to facilitate testing
+
+Builder Mongo 
+Helper class of type of document that contains method like filter and sort
